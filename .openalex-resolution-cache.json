@@ -1,0 +1,31 @@
+{
+  "updatedAt": "2026-02-23T02:27:40.418Z",
+  "fields": {
+    "quantum_mechanics": "31",
+    "neuroscience": "28",
+    "philosophy": "12",
+    "machine_learning": "17"
+  },
+  "concepts": {
+    "quantum mechanics": "C62520636",
+    "neuroscience": "C169760540",
+    "cognitive neuroscience": "C17289045",
+    "computational neuroscience": "C15286952",
+    "neural coding": "C77637269",
+    "brain": "C2777670902",
+    "philosophy of mind": "C24726157",
+    "philosophy": "C138885662",
+    "consciousness": "C186720457",
+    "phenomenology": "C84269361",
+    "dualism": "C2780980858",
+    "physicalism": "C147789679",
+    "machine learning": "C119857082",
+    "deep learning": "C108583219",
+    "neural network": "C50644808",
+    "reinforcement learning": "C97541855",
+    "representation learning": "C2988886741"
+  },
+  "topics": {
+    "quantum mechanics": "T10622"
+  }
+}
